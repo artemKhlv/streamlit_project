@@ -1,1 +1,1 @@
-deepchem-dev
+apt-get deepchem-dev
