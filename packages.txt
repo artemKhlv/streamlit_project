@@ -1,3 +1,2 @@
-apt install deepchem
-import rdkit
+deepchem
   
