@@ -1,4 +1,10 @@
+streamlit
 rdkit
 stmol
+deepchem
+pandas
+matplotlib.pyplot
+numpy
+py3Dmol
 PIL
 st_pages
