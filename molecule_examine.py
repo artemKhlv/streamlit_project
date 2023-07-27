@@ -1,17 +1,14 @@
 import streamlit as st
-import rdkit
+import deepchem as dc
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+from PIL import Image
 from rdkit import Chem
-import stmol
 from stmol import showmol
 import py3Dmol
 from rdkit.Chem import AllChem
-import deepchem as dc
-import pandas as pd
 from urllib.request import urlopen
-import matplotlib.pyplot as plt
-import numpy as np
-import PIL
-from PIL import Image
 import st_pages
 from st_pages import Page, show_pages
 show_pages(
