@@ -1,2 +1,2 @@
-deepchem
+apt-get deepchem
   
