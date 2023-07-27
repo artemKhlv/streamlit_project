@@ -1,4 +1,3 @@
-pipenv
-pip
+deepchem
 import rdkit
   
