@@ -1,4 +1,5 @@
 streamlit
+pip install rdkit
 rdkit
 stmol
 deepchem
