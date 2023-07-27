@@ -1,6 +1,5 @@
 streamlit
-pip install rdkit
-rdkit
+rdkit-pypi==2021.3.3
 stmol
 deepchem
 pandas
