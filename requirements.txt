@@ -1,1 +1,4 @@
-
+rdkit
+stmol
+PIL
+st_pages
