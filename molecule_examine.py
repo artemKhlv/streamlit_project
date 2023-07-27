@@ -1,4 +1,5 @@
 import streamlit as st
+pip install rdkit
 import rdkit
 from rdkit import Chem
 import stmol
