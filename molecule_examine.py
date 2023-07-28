@@ -1,14 +1,14 @@
 import streamlit as st
 from PIL import Image
-# from st_pages import Page, show_pages
-# show_pages(
-#     [
-#         # Page("main.py", "Home", "🏠"),
-#         Page("molecule_examine.py", "Molecule Examine", "🧫"),
-#         Page("chat.py", "ChatAI", "🪬"),
-#         Page("about_us.py", "About us", "🧑🏻‍🔬")
-#     ]
-# )
+from st_pages import Page, show_pages
+show_pages(
+    [
+        # Page("main.py", "Home", "🏠"),
+        Page("molecule_examine.py", "Molecule Examine", "🧫"),
+        Page("chat.py", "ChatAI", "🪬"),
+        Page("about_us.py", "About us", "🧑🏻‍🔬")
+    ]
+)
 image = Image.open('logo-site.png')
 
 st.image(image)
