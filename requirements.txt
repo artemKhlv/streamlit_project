@@ -1,4 +1,1 @@
-st-pages==0.4.3
-streamlit==1.25.0
-deepchem==2.7.1
-openai==0.27.8
+Pillow
