@@ -1,4 +1,5 @@
 import streamlit as st
+import rdkit
 from rdkit import Chem
 from stmol import showmol
 import py3Dmol
