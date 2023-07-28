@@ -1,3 +1,2 @@
-streamlit
-sys
 rdkit-pypi
+streamlit
