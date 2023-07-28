@@ -12,7 +12,7 @@ show_pages(
 
 st.title("AI Science Chat")
 
-openai.api_key = st.secrets["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"]
+openai.api_key = st.secrets["OPENAI_API_KEY"]
 
 if "openai_model" not in st.session_state:
     st.session_state["openai_model"] = "gpt-3.5-turbo"
