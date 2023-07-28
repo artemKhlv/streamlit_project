@@ -6,7 +6,7 @@ show_pages(
     [
         # Page("main.py", "Home", "🏠"),
         Page("molecule_examine.py", "Molecule Examine", "🧫"),
-        Page("chat.py", "ChatAI", "🪬"),
+        # Page("chat.py", "ChatAI", "🪬"),
         Page("about_us.py", "About us", "🧑🏻‍🔬")
     ]
 )
