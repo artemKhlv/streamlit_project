@@ -13,7 +13,7 @@ from st_pages import Page, show_pages
 show_pages(
     [
         Page("molecule_examine.py", "Molecule Examine", "🧫"),
-        Page("chat.py", "ChatAI", "🪬"),
+        # Page("chat.py", "ChatAI", "🪬"),
         Page("about_us.py", "About us", "🧑🏻‍🔬")
     ]
 )
