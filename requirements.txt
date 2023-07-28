@@ -1,2 +1,4 @@
-deepchem==2.7.1
-rdkit
+st_pages
+streamlit
+deepchem
+openai
