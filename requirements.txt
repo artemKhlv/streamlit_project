@@ -9,3 +9,4 @@ matplotlib
 Pillow
 st_pages
 ipython_genutils
+openai
