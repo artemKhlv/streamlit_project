@@ -1,1 +1,3 @@
 Pillow
+Streamlit-Pages
+st-pages
