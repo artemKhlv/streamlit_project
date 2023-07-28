@@ -9,15 +9,15 @@ from urllib.request import urlopen
 import matplotlib.pyplot as plt
 import numpy as np
 from PIL import Image
-# from st_pages import Page, show_pages
-# show_pages(
-#     [
-#         # Page("main.py", "Home", "🏠"),
-#         Page("molecule_examine.py", "Molecule Examine", "🧫"),
-#         Page("chat.py", "ChatAI", "🪬"),
-#         Page("about_us.py", "About us", "🧑🏻‍🔬")
-#     ]
-# )
+from st_pages import Page, show_pages
+show_pages(
+    [
+        # Page("main.py", "Home", "🏠"),
+        Page("molecule_examine.py", "Molecule Examine", "🧫"),
+        Page("chat.py", "ChatAI", "🪬"),
+        Page("about_us.py", "About us", "🧑🏻‍🔬")
+    ]
+)
 
 
 def CIRconvert(smi):
