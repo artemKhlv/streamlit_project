@@ -1,3 +1,2 @@
 Pillow
-Streamlit-Pages==0.4.3
-st-pages==0.4.3
+st-pages
