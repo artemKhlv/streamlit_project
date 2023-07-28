@@ -2,3 +2,10 @@ rdkit-pypi
 streamlit
 stmol
 py3Dmol
+deepchem
+pandas
+urllib
+numpy
+matplotlib
+Pillow
+st_pages
