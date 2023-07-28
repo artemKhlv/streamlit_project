@@ -1,6 +1,6 @@
 import streamlit as st
 from PIL import Image
-from st_pages import Page, show_pages
+# from st_pages import Page, show_pages
 # show_pages(
 #     [
 #         # Page("main.py", "Home", "🏠"),
